@@ -1,5 +1,5 @@
 # Unidock
-LNE Keyboard
+Unidock is a hub keyboard device designed by LNE.
 * Unidock Keyboard (HUB)
 * Support Audio Control & Mute
 * Support LED For Num Lock & Caps Lock & Scroll Lock
