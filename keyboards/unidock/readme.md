@@ -1,9 +1,8 @@
 # Unidock
-====================================================
-Unidock Keyboard (HUB)
-Support Audio Control & Mute
-Support LED For Num Lock & Caps Lock & Scroll Lock
-==================================================== 
+LNE Keyboard
+* Unidock Keyboard (HUB)
+* Support Audio Control & Mute
+* Support LED For Num Lock & Caps Lock & Scroll Lock
 
 Make example:
 
